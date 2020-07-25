@@ -350,6 +350,7 @@ img{
   padding: 2rem 0;
 }
 .footer__title{
+  color:#fff;
   font-size: 2rem;
   margin-bottom: var(--mb-4);
 }
@@ -360,6 +361,10 @@ img{
   font-size: 1.5rem;
   color: #fff;
   margin: 0 var(--mb-2)
+}
+
+.mail{
+  align-content :  center;
 }
 
 /* ===== MEDIA QUERIES=====*/
@@ -438,6 +443,8 @@ img{
     justify-items: center;
   }
 }
+
+
 
 @media screen and (min-width: 1024px){
   .bd-grid{
