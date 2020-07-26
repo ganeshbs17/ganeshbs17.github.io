@@ -304,7 +304,7 @@ img{
   border-radius: .5rem;
 }
 
-/* ===== WORK =====*/
+/* =====  =====*/
 .work__container{
   row-gap: 2rem;
 }
@@ -318,8 +318,10 @@ img{
   cursor: pointer;
 }
 .work__img img:hover{
-  transform: scale(1.1);
+  transform: scale(0.95);
 }
+
+
 
 /* ===== CONTACT =====*/
 .contact__input{
